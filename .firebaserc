@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "sjtodo-dev"
+    "default": "sjtodo-dev",
+    "prod": "sjtodo",
+    "dev": "sjtodo-dev"
   }
 }
